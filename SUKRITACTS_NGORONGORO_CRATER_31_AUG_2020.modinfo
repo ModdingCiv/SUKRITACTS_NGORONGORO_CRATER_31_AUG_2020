@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mod id="981c5038-48a6-44b5-af64-bf2ebcde63f9" version="1">
   <Properties>
-    <Name>Sukritact's Ngorongoro Crater</Name>
+    <Name>SUKRITACTS_NGORONGORO_CRATER_31_AUG_2020</Name>
     <Description>Sukritact's Ngorongoro Crater</Description>
     <Created>1598869185</Created>
     <Teaser>Sukritact's Ngorongoro Crater</Teaser>
-    <Authors>Sukritact</Authors>
+    <Authors>Sukritact, Kevin van Rijn</Authors>
     <CompatibleVersions>1.2,2.0</CompatibleVersions>
   </Properties>
   <ActionCriteria>
