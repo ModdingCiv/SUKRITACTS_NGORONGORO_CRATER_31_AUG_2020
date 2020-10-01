@@ -71,7 +71,8 @@ VALUES	('FEATURE_SUK_NGORONGORO_CRATER',		'TERRAIN_TUNDRA'),
 -------------------------------------
 INSERT INTO Feature_YieldChanges
 		(FeatureType, 						YieldType,				YieldChange)
-VALUES	('FEATURE_SUK_NGORONGORO_CRATER',	'YIELD_FOOD',			2),
+VALUES	('FEATURE_SUK_NGORONGORO_CRATER',	'YIELD_FOOD',			3),
+		('FEATURE_SUK_NGORONGORO_CRATER',	'YIELD_PRODUCTION',		1),
 		('FEATURE_SUK_NGORONGORO_CRATER',	'YIELD_SCIENCE',		2);
 -------------------------------------
 -- Mod Support

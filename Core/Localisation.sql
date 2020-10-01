@@ -9,7 +9,7 @@ VALUES
 		("LOC_FEATURE_SUK_NGORONGORO_CRATER_NAME",  																						"en_US",
 		"Ngorongoro Crater"																),
 		("LOC_FEATURE_SUK_NGORONGORO_CRATER_DESCRIPTION",  																						"en_US",
-		"Three tile natural wonder. Provides +2 [ICON_FOOD] Food, +2 [ICON_SCIENCE] Science."),
+		"Three tile natural wonder. Provides +3 [ICON_FOOD] Food, +1 [ICON_PRODUCTION] Production, and +2 [ICON_SCIENCE] Science."),
 		("LOC_FEATURE_SUK_NGORONGORO_CRATER_QUOTE",  																						"en_US",
 		"“Nobody can say he is settled anywhere forever; it is only the mountains which do not move from their places.”[NEWLINE]– Maasai Proverb"																),
 		("LOC_PEDIA_FEATURES_PAGE_FEATURE_SUK_NGORONGORO_CRATER_CHAPTER_HISTORY_PARA_1",  																						"en_US",
